@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1011508040945",
+    "firebase_url": "https://smart-music-player-d6015.firebaseio.com",
+    "project_id": "smart-music-player-d6015",
+    "storage_bucket": "smart-music-player-d6015.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011508040945:android:9aeaee64a8784496400550",
+        "android_client_info": {
+          "package_name": "com.example.smartmusicplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011508040945-1r8q2t15v6hn5monbrfor9c30tlbv954.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smartmusicplayer",
+            "certificate_hash": "2d9ffbd96b28a921f85e138aad2a55750134e2e7"
+          }
+        },
+        {
+          "client_id": "1011508040945-v9485i2tnrmiq8vn03g9bakf7j57huus.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrZzMoGxinYR4CeYMINSagwrCkm_B8h6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011508040945-v9485i2tnrmiq8vn03g9bakf7j57huus.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
